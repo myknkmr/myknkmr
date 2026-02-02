@@ -1,16 +1,22 @@
-## Hi there 👋
+## About
+Webサイト制作を行っています。  
+Studio.siteでのミニサイト制作を中心に、  
+同様の構成をWordPressでも設計・実装可能です。
 
-<!--
-**myknkmr/myknkmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+- 小規模事業・個人向けWebサイト制作
+- 情報設計を重視したシンプルな構成
+- 更新しやすく、無理のないサイト設計
 
-Here are some ideas to get you started:
+## Skills
+- Studio.site
+- WordPress
+- HTML / CSS
+- GitHub
+- Local（local development）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+- Web制作ポートフォリオ（Studio）
+- WordPress実装デモ（GitHub管理）
+
+※ 本アカウントでは、Web制作に関するデモ・検証・設計サンプルを管理しています。
