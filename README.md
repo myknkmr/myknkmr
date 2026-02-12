@@ -1,7 +1,7 @@
 ## About
-WordPressを用いた小規模サイト制作・ミニサイト構築を行っています。
+WordPressを用いた小規模サイト制作・構築を行っています。
 Local環境で構築し、GitHubで管理しています。
-Studio.siteでのミニサイト制作、同様の構成をWordPressでも設計・実装可能です。
+また、Studio.siteでのサイト制作も行なっており、同様の構成をWordPressでも設計・実装可能です。
 
 ## What I do
 - 小規模事業・個人向けWebサイト制作
@@ -9,8 +9,8 @@ Studio.siteでのミニサイト制作、同様の構成をWordPressでも設計
 - 更新しやすく、無理のないサイト設計
 
 ## Skills
-- Studio.site
 - WordPress
+- Studio.site
 - HTML / CSS
 - GitHub
 - Local（local development）
